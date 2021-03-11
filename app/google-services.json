@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "1080042312872",
+    "firebase_url": "https://fir-chat-7525e.firebaseio.com",
+    "project_id": "fir-chat-7525e",
+    "storage_bucket": "fir-chat-7525e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080042312872:android:c6bd34ff83046118c65e9d",
+        "android_client_info": {
+          "package_name": "com.example.qrscannerexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080042312872-4buklka5g5dn20o7adve0s7nv65d7e96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEHGbpz577k-p4NbNUOE4WCwU3ipmf2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080042312872-4buklka5g5dn20o7adve0s7nv65d7e96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080042312872:android:94c5db182a21aacb",
+        "android_client_info": {
+          "package_name": "com.kenyrim.chatnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080042312872-4buklka5g5dn20o7adve0s7nv65d7e96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEHGbpz577k-p4NbNUOE4WCwU3ipmf2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080042312872-4buklka5g5dn20o7adve0s7nv65d7e96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080042312872:android:5bfe4a9fa1144634",
+        "android_client_info": {
+          "package_name": "com.kenyrim.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080042312872-99pok35na3tbc8t98l34rhsqak66miij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenyrim.firebasechat",
+            "certificate_hash": "23231e31c884a86982e8fa44105d423a07df8507"
+          }
+        },
+        {
+          "client_id": "1080042312872-ssvq63c1fsip3p586c6i4buhtnv6hfvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenyrim.firebasechat",
+            "certificate_hash": "478992fee76b2f6d2de6a579d566395e022b0595"
+          }
+        },
+        {
+          "client_id": "1080042312872-4buklka5g5dn20o7adve0s7nv65d7e96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEHGbpz577k-p4NbNUOE4WCwU3ipmf2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080042312872-4buklka5g5dn20o7adve0s7nv65d7e96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
