@@ -26,6 +26,15 @@
         app:layout_constraintEnd_toEndOf="@+id/cameraView"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="Nothing to read" />
+        android:text="Scanning..." />
+
+    <com.example.qrscannerexample.ScannerOverlay
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#44000000"
+        app:square_height="350"
+        app:square_width="350"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/cameraView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
