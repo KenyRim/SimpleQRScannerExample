@@ -2,5 +2,8 @@
 <resources>
     <integer name="scanner_rect_width">230</integer>
     <integer name="scanner_rect_height">230</integer>
+
+    <integer name="scanner_rect_width_1">230</integer>
+    <integer name="scanner_rect_height_1">230</integer>
     <integer name="line_width">4</integer>
 </resources>
